@@ -8,4 +8,4 @@ El objetivo de este juego es recolectar todos los orbes para abrir una puerta y 
 
 Disfruta recorriendo los diferentes niveles de Sneaky Run!
 
-[![N|Solid]YEAH](https://grupomaajwebyredessociales.github.io/MazeQuiz/) (https://juanixou.github.io/Web-Junio/)
+[Empezar a jugar](https://grupomaajwebyredessociales.github.io/MazeQuiz/) (https://juanixou.github.io/Web-Junio/)
