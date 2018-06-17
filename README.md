@@ -1,4 +1,4 @@
-# Web Junio
+# Sneaky Run
 
 Bienvenido a Sneaky Run, el juego donde deberás recolectar los orbes de energía necesarios para poder escapar de los remotos parajes en los que te encuentras.
 
