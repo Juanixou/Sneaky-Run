@@ -7,3 +7,5 @@ Para jugar, únicamente deberás seleccionar el nivel y pulsar en la zona del su
 El objetivo de este juego es recolectar todos los orbes para abrir una puerta y finalizar la huida.
 
 Disfruta recorriendo los diferentes niveles de Sneaky Run!
+
+[Empezar a jugar](https://juanixou.github.io/Web-Junio/)
